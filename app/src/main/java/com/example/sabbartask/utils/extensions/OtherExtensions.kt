@@ -18,7 +18,7 @@ import com.example.sabbartask.R
 import com.example.sabbartask.data.remote.entities.LocationData
 import com.example.sabbartask.recivers.sendGeofenceEnteredNotification
 import com.example.sabbartask.services.LocationService
-import com.example.sabbartask.ui.identity.adapter.Timeline
+import com.example.sabbartask.ui_not_compose.identity.adapter.Timeline
 import com.google.android.gms.maps.model.BitmapDescriptor
 import com.google.android.gms.maps.model.BitmapDescriptorFactory
 import com.google.firebase.database.DatabaseReference

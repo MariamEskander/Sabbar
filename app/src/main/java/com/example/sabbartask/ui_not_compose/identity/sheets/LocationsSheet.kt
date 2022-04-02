@@ -1,4 +1,4 @@
-package com.example.sabbartask.ui.identity.sheets
+package com.example.sabbartask.ui_not_compose.identity.sheets
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -12,7 +12,7 @@ import com.example.sabbartask.base.BaseViewModel
 import com.example.sabbartask.data.remote.entities.LocationData
 import com.example.sabbartask.data.remote.entities.NOTIFCATION_TYPE
 import com.example.sabbartask.databinding.SheetLocationBinding
-import com.example.sabbartask.ui.identity.DriverUserViewModel
+import com.example.sabbartask.ui_not_compose.identity.DriverUserViewModel
 import com.example.sabbartask.utils.Constants.DATA
 import com.example.sabbartask.utils.Constants.DRIVER
 import com.example.sabbartask.utils.Constants.DROP_OFF

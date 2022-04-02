@@ -1,11 +1,11 @@
-package com.example.sabbartask.ui.main
+package com.example.sabbartask.ui_not_compose.main
 
 import android.os.Bundle
 import androidx.activity.viewModels
 import com.example.sabbartask.base.BaseActivity
 import com.example.sabbartask.base.BaseViewModel
 import com.example.sabbartask.databinding.ActivityMainBinding
-import com.example.sabbartask.ui.identity.DriverUserActivity
+import com.example.sabbartask.ui_not_compose.identity.DriverUserActivity
 import dagger.hilt.android.AndroidEntryPoint
 
 @AndroidEntryPoint

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
     android:background="@color/yellow"
-    tools:context=".ui.main.MainActivity">
+    tools:context=".ui_not_compose.main.MainActivity">
 
 
     <androidx.constraintlayout.widget.Guideline

@@ -53,6 +53,7 @@
     <string name="android_map_description">An Android robot with a map</string>
     <string name="content_text">Your driver is</string>
     <string name="geofences_removed">Geofence removed!</string>
+    <string name="permission_location_rationale">Location permission</string>
 
 
 </resources>

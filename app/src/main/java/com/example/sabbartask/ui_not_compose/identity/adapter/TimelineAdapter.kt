@@ -1,4 +1,4 @@
-package com.example.sabbartask.ui.identity.adapter
+package com.example.sabbartask.ui_not_compose.identity.adapter
 
 import android.annotation.SuppressLint
 import android.view.LayoutInflater

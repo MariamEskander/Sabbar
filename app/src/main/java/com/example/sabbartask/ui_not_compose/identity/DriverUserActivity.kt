@@ -1,4 +1,4 @@
-package com.example.sabbartask.ui.identity
+package com.example.sabbartask.ui_not_compose.identity
 
 import android.Manifest
 import android.app.Activity
@@ -16,8 +16,8 @@ import com.example.sabbartask.data.remote.entities.LocationData
 import com.example.sabbartask.data.remote.entities.NOTIFCATION_TYPE
 import com.example.sabbartask.databinding.ActivityDriverBinding
 import com.example.sabbartask.services.LocationUtils
-import com.example.sabbartask.ui.identity.adapter.TimelineAdapter
-import com.example.sabbartask.ui.identity.sheets.LocationsSheet
+import com.example.sabbartask.ui_not_compose.identity.adapter.TimelineAdapter
+import com.example.sabbartask.ui_not_compose.identity.sheets.LocationsSheet
 import com.example.sabbartask.utils.Constants
 import com.example.sabbartask.utils.Constants.DATA
 import com.example.sabbartask.utils.Constants.IS_USER
