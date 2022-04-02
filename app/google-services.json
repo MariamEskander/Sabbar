@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "43222816699",
+    "project_id": "sabbartask",
+    "storage_bucket": "sabbartask.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43222816699:android:356d1b6e45404a6b26169e",
+        "android_client_info": {
+          "package_name": "com.example.sabbartask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43222816699-a7bhjshi5rjt2tap1jt3ab4p65dbnhl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrcvZZZEUzS0hazi6MBvhIC4af92mjRZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43222816699-a7bhjshi5rjt2tap1jt3ab4p65dbnhl2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
